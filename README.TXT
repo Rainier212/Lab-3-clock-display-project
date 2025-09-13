@@ -34,7 +34,7 @@ ANSWERS TO QUESTIONS:
 24- (have to write down the definition of a variable of type NumberDisplay called digit.)
     NumberDisplay digit = new NumberDisplay(10);
 
-25-?
+25- Rectangle window = new Rectangle(int height, int width);
 
 26- It creates a new clock set at the time specified by the parameters. So it'll set the time of a specific time that the person inputted.
 
@@ -56,4 +56,4 @@ ANSWERS TO QUESTIONS:
 
 35- 0 to m
 
-36-
+37- I would say that the first possibilty is the easiest one to do since all we need to do is change numbers from an existing code. However the second one would be the better clock since it's a 24 hour clock, and displays if it's PM or AM.
