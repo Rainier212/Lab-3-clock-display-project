@@ -31,8 +31,7 @@ ANSWERS TO QUESTIONS:
 
 23- I will need to all the timeTick method 60 times for it to reach 01:00. I could also make it display that time by calling the setTime method. I would have to set the value of hour to 1 and the value of minute to 0.
 
-24- (have to write down the definition of a variable of type NumberDisplay called digit.)
-    NumberDisplay digit = new NumberDisplay(10);
+24- NumberDisplay digit = new NumberDisplay(10);
 
 25- Rectangle window = new Rectangle(int height, int width);
 
